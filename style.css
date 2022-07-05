@@ -1,6 +1,6 @@
-section{
+.flexibale-contanier{
     display: flex;
-    padding: 3%;
+    padding: 5%;
     background-repeat: no-repeat;
 }
 .meat{
@@ -38,4 +38,50 @@ body{
 }
 .flash{
     text-align: center;
+}
+#kola{
+    text-align: center;
+}
+.bana{
+    padding: 40px;
+    margin: auto;
+}
+.meaw{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 3%;
+}
+.meaw img{
+    width: 80%;
+    padding: 10%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.mear{
+    width:40%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    box-shadow: 10px 10px 50px gray;
+    text-align: center;
+    padding: 3%;
+    border-radius: 10%;
+}
+h3{
+    text-align: center;
+    color: white;
+    
+}
+footer{
+    background-color: black;
+}
+#kodu{
+    color:white;
 }
